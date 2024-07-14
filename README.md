@@ -25,6 +25,4 @@
  - <b>Pairwise Distance List:</b> Text file including the residue and distance information.
  - <b>Distance Plot:</b> Cluster map displays the atomic distance between residues of each chains.
 
-## Author
- Mehdi Koşaca 
  
